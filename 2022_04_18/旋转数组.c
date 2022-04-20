@@ -21,4 +21,5 @@ void rotate(int* nums, int numsSize, int k){
     reserve(nums,0,numsSize-1);
     reserve(nums,0,k-1);
     reserve(nums,k,numsSize-1);
+	
 }
