@@ -54,6 +54,7 @@ int* getRow(int rowIndex, int* returnSize){
             p[i]=1LL*p[i-1]*(rowIndex-i+1)/i;
     }
     return p;
+	
 }
 
 
