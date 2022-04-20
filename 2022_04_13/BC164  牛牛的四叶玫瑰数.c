@@ -1,0 +1,1 @@
+#include<stdio.h>int main() {	int l, r;	scanf("%d %d", &l, &r);	for (int i = l; i <= r; i++) {		int num = i;		int sum = 0;		while (num) {			int tmp = num % 10;			sum += pow(tmp, 4);			num /= 10;		}		if (sum == i)			printf("%d ", i);	}	return 0;}
