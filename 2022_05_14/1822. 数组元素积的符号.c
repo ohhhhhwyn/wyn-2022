@@ -17,4 +17,5 @@ int arraySign(int* nums, int numsSize){
         return 1;
     }
     return -1;
+	
 }
