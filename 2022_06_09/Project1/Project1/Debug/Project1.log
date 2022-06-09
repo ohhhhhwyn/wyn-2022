@@ -1,0 +1,8 @@
+﻿  test.c
+E:\Git repository\gitee\wyn-2022\2022_06_09\Project1\Project1\test.c(92,15): warning C4101: “choice”: 未引用的局部变量
+E:\Git repository\gitee\wyn-2022\2022_06_09\Project1\Project1\test.c(92,12): warning C4101: “j”: 未引用的局部变量
+E:\Git repository\gitee\wyn-2022\2022_06_09\Project1\Project1\test.c(92,9): warning C4101: “i”: 未引用的局部变量
+E:\Git repository\gitee\wyn-2022\2022_06_09\Project1\Project1\test.c(630,15): warning C4101: “x”: 未引用的局部变量
+E:\Git repository\gitee\wyn-2022\2022_06_09\Project1\Project1\test.c(630,12): warning C4101: “n”: 未引用的局部变量
+E:\Git repository\gitee\wyn-2022\2022_06_09\Project1\Project1\test.c(631,37): warning C4101: “in”: 未引用的局部变量
+  Project1.vcxproj -> E:\Git repository\gitee\wyn-2022\2022_06_09\Project1\Debug\Project1.exe
